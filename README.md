@@ -7,7 +7,7 @@ coded in hash format .
 4. Once created the user is a KEY is generated, The KEY used for passwords 
 encryption, the KEY is not changed and encoded by the AES method , which 
 coding the key is user PLAIN password .  
-5. * Create own class passwords for generating , which according to selected 
+5. Create own class passwords for generating , which according to selected 
 ones parameters : secret length uppercase , lowercase , numbers , spec. 
 characters quantity ( in units or in percent optional ). Parameters allow set by 
 GUI fields . For example : 9 characters ie 2 - lowercase , 3 uppercase , 2 
